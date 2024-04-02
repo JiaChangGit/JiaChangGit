@@ -1,7 +1,6 @@
 
 ![Hey there, it is a header-gif](https://github.com/JiaChangGit/JiaChangGit/blob/main/header.gif)
 
-![](https://komarev.com/ghpvc/?username=JiaChangGit&color=blueviolet)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/家菖-張-85744a301) 
