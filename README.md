@@ -10,6 +10,8 @@
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=e97ed376e25f1a5a132df4e98462fe70)](https://gist.github.com/JiaChangGit/e97ed376e25f1a5a132df4e98462fe70/)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=3ba794b8151e9a148b878947c074e07c)](https://gist.github.com/JiaChangGit/3ba794b8151e9a148b878947c074e07c/)
+
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JiaChangGit&theme=moltack&hide_border=false&count_private=true&layout=compact)
 
