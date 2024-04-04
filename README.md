@@ -11,11 +11,11 @@
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=e97ed376e25f1a5a132df4e98462fe70)](https://gist.github.com/JiaChangGit/e97ed376e25f1a5a132df4e98462fe70/)
 
 # 📊 Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaChangGit&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaChangGit&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact&rank_icon=github)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JiaChangGit&theme=moltack&hide_border=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JiaChangGit&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JiaChangGit&theme=moltack&hide_border=false&count_private=true&layout=compact)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JiaChangGit?theme=unicorn&font=Ruthie&ext=heatmap)](https://leetcode.com/JiaChangGit/)
 
