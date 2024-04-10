@@ -16,7 +16,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JiaChangGit&theme=moltack&hide_border=false&layout=compact)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JiaChangGit?theme=unicorn&font=Ruthie&ext=heatmap)](https://leetcode.com/JiaChangGit/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JiaChangGit?theme=forest&font=Baloo%202&ext=heatmap)](https://leetcode.com/JiaChangGit/)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=JiaChangGit&theme=alduin&no-frame=false&no-bg=true&margin-w=2&rank=-?,-C)
