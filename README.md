@@ -10,8 +10,11 @@
 <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jia81920) --> 
 <!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JIA) --> 
 
-# 💻 Tech Stack:
+# 🎙️ Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
+
+
+# 🚀 Tools:
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -25,9 +28,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JiaChangGit&theme=moltack&hide_border=false&layout=compact) 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JiaChangGit?theme=forest&font=Baloo%202&ext=heatmap)](https://leetcode.com/JiaChangGit/) 
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=JiaChangGit&theme=alduin&no-frame=false&no-bg=true&margin-w=2&rank=-?,-C) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JiaChangGit&icon=0&color=0)](https://visitcount.itsvg.in) 
